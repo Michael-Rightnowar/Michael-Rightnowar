@@ -2,22 +2,25 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Python](https://github.com/Michael-Rightnowar)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [AppDev Project](https://github.com/Michael-Rightnowar)
 - <b>Python</b>
   - [Encryption & Decryption App](https://github.com/Michael-Rightnowar)
-
+  - [Tic-Tac-Toe](https://github.com/Michael-Rightnowar)
+  - [Simple Calculator](https://github.com/Michael-Rightnowar)
+- <b>Full Stack Web App</b>
+  - [Blog Platform](https://github.com/Michael-Rightnowar)
+  - [Vacation Planner](https://github.com/Michael-Rightnowar)
+- <b>C Projects and Problems</b>
+  - [Final Exam](https://github.com/Michael-Rightnowar)
+    
 <h2>📺 Certifications</h2>
 
 -  <b>Coming Soon!</b>
 
 <h2>⚡ Fun Facts</h2>
 
--  <b>Basketball</b>
--  <b>Golf</b>
--  <b>Iced Coffee</b>
+-  <b>Basketball - I played college basketball all four years while at Adrian College.</b>
+-  <b>Golf - Enjoy golfing and being outside.</b>
+-  <b>Coffee - Appreciate the complexity that goes into specialty coffees.</b>
 
 <h2> 🤳 Connect with me:</h2>
 
