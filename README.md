@@ -10,7 +10,7 @@
   - [Blog Platform](https://github.com/Michael-Rightnowar)
   - [Vacation Planner](https://github.com/Michael-Rightnowar)
 - <b>C Projects and Problems</b>
-  - [Final Exam](https://github.com/Michael-Rightnowar)
+  - [Final Project](https://github.com/Michael-Rightnowar)
     
 <h2>📺 Certifications</h2>
 
