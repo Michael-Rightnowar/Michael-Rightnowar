@@ -11,6 +11,7 @@
   - [Vacation Planner](https://github.com/Michael-Rightnowar)
 - <b>C Projects and Problems</b>
   - [Final Project](https://github.com/Michael-Rightnowar)
+  - [Senior Project - TCP & UDP Vulnerability Scanner](https://github.com/Michael-Rightnowar)
     
 <h2>📺 Certifications</h2>
 
